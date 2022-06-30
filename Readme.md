@@ -1,6 +1,8 @@
 ## Pre-req
-** conda
-** git
+
+conda
+
+git
 
 ## run the following instruction in order
 
