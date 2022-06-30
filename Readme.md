@@ -1,8 +1,8 @@
-##Pre-req
-**conda
+## Pre-req
+** conda
 ** git
 
-##run the following instruction in order
+## run the following instruction in order
 
 git clone https://github.com/Selvag001/StoreHelper.git
 
